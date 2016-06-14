@@ -1,0 +1,7 @@
+﻿//キーボードマクロのファイル
+S_ReplaceAll('^(?!.+data-image-url="[^"]+").+$', '', 30);	// すべて置換
+S_ReDraw(0);	// 再描画
+S_ReplaceAll('^.+data-image-url="([^"]+)".+$', '\\1', 30);	// すべて置換
+S_ReDraw(0);	// 再描画
+S_SelectAll(0);	// すべて選択
+S_SortDesc(0);	// 選択行の降順ソート
