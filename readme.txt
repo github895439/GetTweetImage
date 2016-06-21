@@ -1,27 +1,27 @@
-1@Chrome‚ÅTwitterŒöŽ®‚ÌŽ©•ª‚ÌƒƒfƒBƒAƒy[ƒW‚ðŠJ‚­B
-@ƒoƒbƒNƒAƒbƒv‚µ‚½‚¢•ª‚¾‚¯‰º‚ÉƒXƒNƒ[ƒ‹‚µ‚Ä’Ç‰Á•\Ž¦‚³‚¹‚éB
-2@ƒy[ƒW“à‚ÅƒRƒ“ƒeƒLƒXƒgƒƒjƒ…[uŒŸØv‚ð‘I‚ÔB
-3@‰º•”‚ÉŠJ‚¢‚½ƒfƒxƒƒbƒp[ƒc[ƒ‹‚Ì‰æ–Ê‚ÅAˆê”Ôã‚ç•Ó‚ÌHTMLƒ^ƒO‚Ìs‚ð‘I‘ð‚·‚éB
-@ƒ^ƒu‚ÍElementsB
-4@ƒRƒ“ƒeƒLƒXƒgƒƒjƒ…[uCopy outerHTMLv‚ð‘I‚ÔB
-5@ƒTƒNƒ‰ƒGƒfƒBƒ^‚Éƒy[ƒXƒg‚·‚éB
-6@ƒTƒNƒ‰ƒGƒfƒBƒ^‚Ìƒ}ƒNƒget_image_url.mac‚ðŽÀs‚·‚éB
-7@‰º•”‚Ì‹ós‚ðíœ‚·‚éB
-8@ƒtƒ@ƒCƒ‹‚É•Û‘¶‚·‚éB
-9@Cygwin‚©A•Û‘¶‚µ‚½ƒtƒ@ƒCƒ‹‚ð“ü—Í‚Æ‚µ‚Äwget‚ðŽÀs‚·‚éB
-@@—á@wget -i <•Û‘¶‚µ‚½ƒtƒ@ƒCƒ‹> -o log.txt
+1ã€€Chromeã§Twitterå…¬å¼ã®è‡ªåˆ†ã®ãƒ¡ãƒ‡ã‚£ã‚¢ãƒšãƒ¼ã‚¸ã‚’é–‹ãã€‚
+ã€€ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã—ãŸã„åˆ†ã ã‘ä¸‹ã«ã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ã—ã¦è¿½åŠ è¡¨ç¤ºã•ã›ã‚‹ã€‚
+2ã€€ãƒšãƒ¼ã‚¸å†…ã§ã‚³ãƒ³ãƒ†ã‚­ã‚¹ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã€Œæ¤œè¨¼ã€ã‚’é¸ã¶ã€‚
+3ã€€ä¸‹éƒ¨ã«é–‹ã„ãŸãƒ‡ãƒ™ãƒ­ãƒƒãƒ‘ãƒ¼ãƒ„ãƒ¼ãƒ«ã®ç”»é¢ã§ã€ä¸€ç•ªä¸Šã‚‰è¾ºã®HTMLã‚¿ã‚°ã®è¡Œã‚’é¸æŠžã™ã‚‹ã€‚
+ã€€ã‚¿ãƒ–ã¯Elementsã€‚
+4ã€€ã‚³ãƒ³ãƒ†ã‚­ã‚¹ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã€ŒCopy outerHTMLã€ã‚’é¸ã¶ã€‚
+5ã€€ã‚µã‚¯ãƒ©ã‚¨ãƒ‡ã‚£ã‚¿ã«ãƒšãƒ¼ã‚¹ãƒˆã™ã‚‹ã€‚
+6ã€€ã‚µã‚¯ãƒ©ã‚¨ãƒ‡ã‚£ã‚¿ã®ãƒžã‚¯ãƒ­get_image_url.macã‚’å®Ÿè¡Œã™ã‚‹ã€‚
+7ã€€ä¸‹éƒ¨ã®ç©ºè¡Œã‚’å‰Šé™¤ã™ã‚‹ã€‚
+8ã€€ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹ã€‚
+9ã€€Cygwinã®wgetã‚’ã€ä¿å­˜ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’å…¥åŠ›ã¨ã—ã¦å®Ÿè¡Œã™ã‚‹ã€‚
+ã€€ã€€ä¾‹ã€€wget -i <ä¿å­˜ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«> -o log.txt
 
-¦ƒTƒNƒ‰ƒGƒfƒBƒ^
-ƒTƒNƒ‰ƒGƒfƒBƒ^   Ver. 2.2.0.1
+â€»ã‚µã‚¯ãƒ©ã‚¨ãƒ‡ã‚£ã‚¿
+ã‚µã‚¯ãƒ©ã‚¨ãƒ‡ã‚£ã‚¿   Ver. 2.2.0.1
 
       Share Ver: 166
       Compile Info: V1500 WR WIN500/I501/C000/N500
       Last Modified: 2015/7/19 11:33:53
 
-¦wget
+â€»wget
 $ wget -V
 GNU Wget 1.17.1 built on cygwin.
 
-¦Cygwin
+â€»Cygwin
 $ uname -a
 CYGWIN_NT-6.1 * 2.5.1(0.297/5/3) 2016-04-21 22:14 x86_64 Cygwin
