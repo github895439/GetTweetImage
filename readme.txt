@@ -9,7 +9,7 @@
 7　下部の空行を削除する。
 8　ファイルに保存する。
 9　Cygwinのwgetを、保存したファイルを入力として実行する。
-　　例　wget -i <保存したファイル> -o log.txt
+　　例　source get_tweet_image.bash
 
 ※サクラエディタ
 サクラエディタ   Ver. 2.2.0.1
